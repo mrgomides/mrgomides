@@ -46,15 +46,10 @@ Focused on **Software Architecture**, scalability, observability and cost effici
 
 ## 📊 GitHub Stats
 
-![Gomides GitHub stats](https://github-readme-stats.vercel.app/api?username=rgomidsE&show_icons=true&theme=dark)
+![Gomides GitHub stats](https://github-readme-stats.vercel.app/api?username=rgomids&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgomids&layout=compact&theme=dark)
 
----
-
-## 🔗 Links
-- 💼 LinkedIn: https://www.linkedin.com/in/rgomids/- Working with AWS (ECS, Lambda, SQS, DynamoDB, S3)  
-- Focus on clean, maintainable and observable systems  
 
 ---
 
