@@ -7,7 +7,7 @@
 
 ## 🚀 About
 Backend-focused engineer working with **distributed systems, data pipelines and cloud architecture**.  
-Currently evolving towards **Software Architecture** with emphasis on scalability, observability and cost efficiency.
+Focused on **Software Architecture**, scalability, observability and cost efficiency.
 
 ---
 
@@ -28,6 +28,7 @@ Currently evolving towards **Software Architecture** with emphasis on scalabilit
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 
 ### Backend & Data
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch)
@@ -38,22 +39,21 @@ Currently evolving towards **Software Architecture** with emphasis on scalabilit
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20CI-000?&logo=githubactions)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-000?&logo=gitlab)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Gomides GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Gomides GitHub stats](https://github-readme-stats.vercel.app/api?username=rgomidsE&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgomids&layout=compact&theme=dark)
 
 ---
 
-## 📌 Highlights
-- Building scalable backend systems in Go  
-- Designing data pipelines (Kafka, ClickHouse, Druid)  
-- Working with AWS (ECS, Lambda, SQS, DynamoDB, S3)  
+## 🔗 Links
+- 💼 LinkedIn: https://www.linkedin.com/in/rgomids/- Working with AWS (ECS, Lambda, SQS, DynamoDB, S3)  
 - Focus on clean, maintainable and observable systems  
 
 ---
