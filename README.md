@@ -32,8 +32,7 @@ Focused on **Software Architecture**, scalability, observability and cost effici
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-000)
-![Apache Druid](https://img.shields.io/badge/-Druid-000)
+![Apache Druid](https://img.shields.io/badge/-Druid-000&logo=apachedruid)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
